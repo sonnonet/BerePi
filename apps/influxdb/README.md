@@ -1,7 +1,7 @@
 # InfluxDB 메뉴얼
 ## 동작확인 방법
 
-## 설치
+## 설치 (ver1.0.0)
 
 ```
 wget https://dl.influxdata.com/influxdb/releases/influxdb_1.0.0_armhf.deb
@@ -9,6 +9,13 @@ sudo dpkg -i influxdb_1.0.0_armhf.deb
 sudo service influxdb start
 ```
 
+## 설치 (ver1.2.0)
+
+```
+wget https://dl.influxdata.com/influxdb/releases/influxdb_1.2.0_armhf.deb
+sudo dpkg -i influxdb_1.0.0_armhf.deb
+sudo service influxdb start
+```
 ## 구조
 
 ```
