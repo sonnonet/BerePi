@@ -15,6 +15,7 @@
   - https://youtu.be/40riCqvRoMs
   
 ### 라즈베리카메라 이미지 서버전송 구성
+  - ![Camera_Configuration](https://raw.githubusercontent.com/sonnonet/BerePi/master/app/camera/RCtoServer.png)
 
 ###  라즈베리카메라 이미지 서버전송 프로그램
 
