@@ -17,6 +17,7 @@
   
 ### 카메라 이미지 서버전송
 
+```
 1.Client.py
   - 라즈베리파이(Client) 
     : Server_IP = ' '  이미지 전송할 서버주소
@@ -28,4 +29,5 @@
    : sys.path.insert(0,'D:\Pi_CameraData_Gangnam') 저장하고 싶은 폴더 와 드라이브 
    : pic = 'D:\Pi_CameraData_Gangnam\%s_cam_shot.jpg') 저장하고 싶은 파일이름 형태 
      현재 %s -> YYYY-mm-dd-hh-MM"
+```
  
