@@ -14,8 +14,9 @@
   - It gives outline understanding of Vision Intelligence
   - https://youtu.be/40riCqvRoMs
   
-  
-### 카메라 이미지 서버전송
+### 라즈베리카메라 이미지 서버전송 구성
+
+###  라즈베리카메라 이미지 서버전송 프로그램
 
 ```
 1.Client.py
@@ -28,6 +29,6 @@
    - 이미지를 저장할 서버 
    : sys.path.insert(0,'D:\Pi_CameraData_Gangnam') 저장하고 싶은 폴더 와 드라이브 
    : pic = 'D:\Pi_CameraData_Gangnam\%s_cam_shot.jpg') 저장하고 싶은 파일이름 형태 
-     현재 %s -> YYYY-mm-dd-hh-MM"
+     현재 %s -> YYYY-mm-dd-hh-MM
 ```
  
