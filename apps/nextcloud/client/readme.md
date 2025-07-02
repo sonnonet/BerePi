@@ -8,3 +8,24 @@ https://github.com/ezhov-evgeny/webdav-client-python-3
 
 ![image](https://user-images.githubusercontent.com/4180063/220125144-5fffd547-eafd-4bfe-9b47-8e8f14e62e43.png)
 
+
+
+# config.json( 체크중)
+
+```
+{
+  "nextcloud": {
+    "url": "http://ssncloud.iptime.org:9321",
+    "webdav_hostname": "http://ssncloud.iptime.org:9321/remote.php/dav/files/your-username/",
+    "username": "your-username",
+    "password": "your-password",
+    "remote_folder": "/Test_OCR/"
+  },
+  "local": {
+    "download_folder": "downloaded_images",
+    "result_json": "ocr_results.json"
+  }
+}
+```
+  - 정상작동
+
